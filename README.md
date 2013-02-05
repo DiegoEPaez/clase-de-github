@@ -24,4 +24,6 @@ git add README
 
 git commit -m "primer comit"
 
-git push...
+git push..
+
+A.
